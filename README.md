@@ -1,3 +1,7 @@
+Okay, I understand. GitHub's Markdown renderer can sometimes be particular, especially if there are subtle leading spaces or if the structure isn't explicitly a standard Markdown element like a list or paragraph.
+
+Here's the revised README. I've made sure the "Important Notes" section uses explicit Markdown bullet points and that the text flows as regular paragraphs, which should prevent it from being misinterpreted as code blocks.
+
 # Python Client for Capital.com API (Unofficial)
 
 This Python library provides a client for interacting with the Capital.com trading API (REST and WebSocket). It aims to simplify common operations such as account management, trading, market data retrieval, and real-time data streaming.
