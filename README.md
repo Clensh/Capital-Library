@@ -118,6 +118,7 @@ if __name__ == "__main__":
         print(f"An unexpected error occurred: {e}", exc_info=True)
     finally:
         print("Program finished.")
+
 IGNORE_WHEN_COPYING_START
 content_copy
 download
@@ -126,7 +127,7 @@ Python
 IGNORE_WHEN_COPYING_END
 Core Functionality
 Session Management
-
+```
 login(): Authenticates the client.
 
 logout(): Terminates the session and clears tokens.
